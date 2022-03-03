@@ -1,8 +1,8 @@
 [Open Source Guidelines](open_source_guidelines.md)
 
-*   [Journeyers](/journeyers)
-*   [Practitioners](/practitioners)
-*   [Operators](/operators)
+*   [Journeyers](/journeyers) - Journeyers are individuals who consume psychedelics. 
+*   [Practitioners](/practitioners) - Practitioners are individuals who support journeyers. They may be trip-sitters, guides, facilitators, coaches, clinicians, therapists, psychiatrists, guardians, shamans, or other roles in service of the psychedelic experience.
+*   [Operators](/operators) - Operators are individuals or teams who produce environments in which psychedelics may be consumed. They may be solo, clinic, or retreat operators.
 
 # Synopsis
 
