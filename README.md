@@ -117,7 +117,7 @@ _Provide an expanding, singular go-to resource for practitioners to provide best
 
 _Provide guidelines and exercises for facilitators to create and support effective peer groups. This will leverage prior art from Landmark by Alex Atwood
 
-_Consider recommending_ [_covalent.live_](http:// founders@covalent.live)
+_Consider recommending_ [covalent.live](http://covalent.live)
 
 1.  Preparation
     1.  How to form and lead peer support groups
