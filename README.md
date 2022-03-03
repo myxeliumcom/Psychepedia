@@ -10,7 +10,7 @@ The Open Source Psychedelic Therapy Project is a freely available repository of 
 
 The Project collects wisdom, research, and exercises from the most recent medical research to the most experienced shamans. The goal is to provide an objective, inclusive, and pragmatic approach that intersects science and spirituality, offering best-in-class information that is immediately accessible and useful. To this end, the Project is scoped as a process-driven series segmented as Preparation, Journey, and Integration (before, during, and after).
 
-For more information on how to contribute, please contact austin@austinmao.com.
+For more information on how to contribute, please contact in [Discussions](https://github.com/myxeliumcom/Psychepedia/discussions).
 
 # Mission
 
