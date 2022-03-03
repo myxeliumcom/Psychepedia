@@ -1,3 +1,5 @@
 ## Psychepedia
 
-[Open Source Guidelines](open_source_guidelines.md)
+* [Preparation](/preparation)
+* [Journey](/journey)
+* [Integration](/integration)
