@@ -115,7 +115,7 @@ _Provide an expanding, singular go-to resource for practitioners to provide best
 
 ## Peer Support Groups for Practitioners
 
-_Provide guidelines and exercises for facilitators to create and support effective peer groups. This will leverage prior art from Landmark by_ [_alexatwood@gmail.com_](mailto:alexatwood@gmail.com)
+_Provide guidelines and exercises for facilitators to create and support effective peer groups. This will leverage prior art from Landmark by Alex Atwood
 
 _Consider recommending_ [_covalent.live_](http:// founders@covalent.live)
 
