@@ -33,7 +33,9 @@ This Chrome extension will provide a [WYSIWYG editor](https://en.wikipedia.org/w
 3.  Title the file and conclude the file with the `.md` extension
     1.  The file will become a URL. Therefore, use `_` instead of spaces and do not include non-standard characters
 4.  [Commit & review changes](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/committing-and-reviewing-changes-to-your-project)
-5.  Create a branch for the commit and start a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
+    1.  This creates the document and will enable the Github Writer extension upon editing (of a `.md` file)
+5.  Click the `Edit` pencil icon
+6.  Create a branch for the commit and start a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
 
 ## Begin Each Document With Background Info
 
